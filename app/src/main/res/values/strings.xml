@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quotient</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_pin">Enter Pin</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+</resources>
